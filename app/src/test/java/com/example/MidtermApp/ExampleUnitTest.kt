@@ -1,4 +1,4 @@
-package com.example.a323midterm
+package com.example.MidtermApp
 
 import org.junit.Test
 

@@ -1,7 +1,8 @@
-package com.example.a323midterm
+package com.example.MidtermApp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.a323midterm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

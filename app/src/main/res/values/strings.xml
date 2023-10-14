@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">323Midterm</string>
+    <string name="welcome_to_the_game">Welcome to the game</string>
+    <string name="play_game">Play Game</string>
+    <string name="view_high_scores">View High Scores</string>
 </resources>
